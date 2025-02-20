@@ -1,0 +1,3 @@
+# Stefan Karl M. Chan
+
+This project was developed by Stefan Karl M. Chan. It demonstrates the use of TypeScript and Express.js to create a RESTful API for user management. The API includes features such as user registration, authentication, profile updates, user search, and account deletion. It employs UUIDs for unique user identification, bcrypt for secure password storage, and a JSON file to simulate a database.
