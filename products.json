@@ -1,9 +1,16 @@
 {
-    "0000b7e9-1747-46ee-b56b-1587a058b8b1":{
-    "id":"0000b7e9-1747-46ee-b56b-1587a058b8b1",
-    "name":"Wrist Watch",
-    "price":"500",
-    "quantity":"50",
-    "image":"image_url.png"
-    }
+  "0000b7e9-1747-46ee-b56b-1587a058b8b1": {
+    "id": "0000b7e9-1747-46ee-b56b-1587a058b8b1",
+    "name": "Wrist Watch",
+    "price": "500",
+    "quantity": "50",
+    "image": "image_url.png"
+  },
+  "beea0999-55cc-4b6f-ab1c-a3da3a94eb38": {
+    "id": "beea0999-55cc-4b6f-ab1c-a3da3a94eb38",
+    "name": "Earings",
+    "price": "150",
+    "quantity": "30",
+    "image": "image_url.png"
+  }
 }

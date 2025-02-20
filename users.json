@@ -1,14 +1,20 @@
 {
-    "7f730910-589f-48cd-8797-61de9ca84581":{
-        "id":"7f730910-589f-48cd-8797-61de9ca84581",
-        "username":"stephen",
-        "email":"stephen@gmail.com",
-        "password":"$2a$10$MzCCxyaNNijGlOKrMlbUke5/nMxj3LLBftoGX0Cm4S/M/xtycw0wS"
-    },
-    "c587cd2b-8273-476e-bf3d-5d0cf9f163e0":{
-    "id":"c587cd2b-8273-476e-bf3d-5d0cf9f163e0",
-    "username":"Dave12",
-    "email":"DaveCobol@gmail.com",
-    "password":"$2a$10$pfejpD6AlmeNk/LdTYiAeeX5gzLRJ9tz.WOvu9wkLn6eVTQ48b5uW"
-    }
+  "513f7d29-62d7-4872-95e2-9ac04cd08650": {
+    "id": "513f7d29-62d7-4872-95e2-9ac04cd08650",
+    "username": "chan12",
+    "email": "chankarl@gmail.com",
+    "password": "$2a$10$wawHOhk9vw068IpcUnRTGeZJpqhPmZgwB5zcZbZRb.LggHcVAdsgS"
+  },
+  "157fd8d3-869f-49aa-ad4f-d595fcd35669": {
+    "id": "157fd8d3-869f-49aa-ad4f-d595fcd35669",
+    "username": "Stefan",
+    "email": "stefanchan@gmail.com",
+    "password": "$2a$10$Dxme6tD4Sk.CA0XZbgMLD.DucApIoB0dEVxWjjJ4A2aIelFA0713S"
+  },
+  "a7c0b433-1e31-4b1b-924e-d081f19ade0f": {
+    "id": "a7c0b433-1e31-4b1b-924e-d081f19ade0f",
+    "username": "chan",
+    "email": "chankarl@gmail.com",
+    "password": "$2a$10$aQg9o4s5gUnJeD5wQBvi1eD9WVwkdNdrGG2/mWxquYiVPNc6PmOZC"
+  }
 }
